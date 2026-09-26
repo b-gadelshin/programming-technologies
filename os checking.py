@@ -1,9 +1,7 @@
-import os
 import sys
 import platform
 import json
 import socket
-from datetime import datetime
 
 def get_os_info():
     return {
