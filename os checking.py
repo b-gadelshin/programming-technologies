@@ -2,9 +2,7 @@ import os
 import sys
 import platform
 import json
-import subprocess
 import socket
-import getpass
 from datetime import datetime
 
 def get_os_info():
